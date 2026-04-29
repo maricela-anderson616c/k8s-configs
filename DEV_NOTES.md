@@ -19,3 +19,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Resolved TODO items from previous session
+
+## 2026-04-29
+- Added CONTRIBUTING.md stub
+- Reviewed security headers configuration
+- Updated .gitignore to exclude build artifacts
