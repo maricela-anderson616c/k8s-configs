@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Added basic usage examples to README
 - Wrote notes on upcoming feature design
+
+## 2026-04-29
+- Noted known limitation in docs
